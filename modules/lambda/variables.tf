@@ -1,0 +1,9 @@
+variable "function_name" {}
+variable "s3_bucket" {}
+variable "app_version" {}
+variable "alias" {}
+variable "gateway" {}
+variable "method" {}
+variable "region" {}
+variable "account_id" {}
+variable "aws_iam_role" {}
